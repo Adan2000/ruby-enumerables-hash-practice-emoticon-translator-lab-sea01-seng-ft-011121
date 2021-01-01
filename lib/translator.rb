@@ -33,7 +33,7 @@ load_library(path).each do |key, value|
     return value[:japanese]
 end
 end
-return 
+return "Sorry, that emoticon was not found"
 end
 
 
