@@ -23,6 +23,7 @@ load_library(path).each do |key, value|
     return key
   end
  end
+ return "Sorry, that emoticon was not found"
 end
 
 
