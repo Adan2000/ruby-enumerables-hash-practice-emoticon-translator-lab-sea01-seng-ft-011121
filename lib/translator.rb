@@ -27,7 +27,7 @@ end
 
 
 
-def get_
+def get_japanese
 
 
 
