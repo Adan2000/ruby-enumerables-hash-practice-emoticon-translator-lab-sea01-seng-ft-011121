@@ -27,7 +27,7 @@ end
 
 
 
-def get_japanese
+def get_japanese_emoticon
 
 
 
