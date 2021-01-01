@@ -44,6 +44,7 @@ load_library(path).each do |key, value|
     return key
   end
 end
+return "Sorry that emoticon was nit found "
 end
 
 
