@@ -39,7 +39,7 @@ end
 
 
 def get_english_meaning(path, emoticon)
-load.li
+load_library. 
 end
 
 
