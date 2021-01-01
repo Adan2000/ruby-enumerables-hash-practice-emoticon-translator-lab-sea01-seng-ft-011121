@@ -33,6 +33,7 @@ load_library(path).each do |key, value|
     return value[:japanese]
 end
 end
+return 
 end
 
 
